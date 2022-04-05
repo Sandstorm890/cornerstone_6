@@ -1,0 +1,11 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "apiHost": "https://api.bigcommerce.com",
+  "normalStoreUrl": "https://zayne.mybigcommerce.com/?ctk=3be206a1-f31d-4637-9a7f-648624429a1d",
+  "port": 3000
+}
